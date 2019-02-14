@@ -8,6 +8,7 @@ main()
 	printf("I love you");
 	printf("Vireak love Comino very much");
 	printf("He love me");
+	printf("do you love me12");
 	scanf("%d",&num);
 	if(num%2==0)
 	{
