@@ -7,6 +7,7 @@ main()
 	printf("Enter your age: ");
 	printf("I love you");
 	printf("Vireak love Comino");
+	printf("He love me");
 	scanf("%d",&num);
 	if(num%2==0)
 	{
