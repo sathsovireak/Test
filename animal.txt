@@ -1,1 +1,1 @@
-animal lion tiger
+animal lion 
