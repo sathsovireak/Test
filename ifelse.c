@@ -6,7 +6,7 @@ main()
 	printf("Enter your name:");
 	printf("Enter your age: ");
 	printf("I love you");
-	printf("Vireak love Comino");
+	printf("Vireak love Comino very much");
 	printf("He love me");
 	scanf("%d",&num);
 	if(num%2==0)
