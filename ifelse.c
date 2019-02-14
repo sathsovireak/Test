@@ -5,7 +5,6 @@ main()
 	printf("Enter a numbers");
 	printf("Enter your name:");
 	printf("Enter your age: ");
-	printf("Enter ");
 	scanf("%d",&num);
 	if(num%2==0)
 	{
